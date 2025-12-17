@@ -1,0 +1,231 @@
+{
+  "chilcanos": {
+    "price": "S/. 20.00",
+    "flavors": [
+      "Clásico",
+      "Piña / Coco",
+      "Piña / Aguaymanto",
+      "Chicha Morada",
+      "Hierba Luisa / Menta",
+      "Naranja / Lulo / Canela",
+      "Maracuyá",
+      "Arándano",
+      "Fresa / Tumbo",
+      "Lima / Naranja / Piña / Kion",
+      "Tumbo / Ciruela",
+      "Frutos Rojos",
+      "Anís / Canela",
+      "Hierba Luisa / Lima",
+      "Manzanilla",
+      "Fresa / Arándano / Aguaymanto",
+      "Tamarindo / Fresa",
+      "Piña / Membrillo / Canela",
+      "Carambola / Maracuyá",
+      "Chirimoya",
+      "Maracuyá / Lulo",
+      "Naranja China",
+      "Arándano / Flor de Jamaica",
+      "Maracuyá / Naranja / Ciruela",
+      "Maracuyá / Canela",
+      "Aguaymanto",
+      "Fresa / Naranja / Canela",
+      "Piña / Coco / Naranja",
+      "Frutos Secos",
+      "Chirimoya",
+      "Hierba Luisa / Muña / Menta"
+    ]
+  },
+  "pisco_sour": {
+    "price": "S/. 25.00",
+    "flavors": [
+      "Clásico",
+      "Mitika Sour",
+      "Chicha Morada",
+      "Maracuyá",
+      "Citrus Punch",
+      "Maracumango",
+      "Fresa / Naranja",
+      "Piña Colada Sour",
+      "Aguaymanto Sour",
+      "Menta / Muña / Hierba Luisa",
+      "Aperol Sour"
+    ]
+  },
+  "experiences": {
+    "round_of_3_pisco_sour": "S/. 50.00",
+    "round_of_4_shot_of_pisco": "S/. 60.00",
+    "round_of_5_chilcanos": "S/. 50.00"
+  },
+  "classic_pisco_based": [
+    {
+      "name": "Mojito",
+      "price": "S/. 25.00",
+      "flavors": [
+        "Clásico",
+        "Fresa",
+        "Maracuyá",
+        "Citrus",
+        "Piña",
+        "Carambola",
+        "Tropical",
+        "Aperol"
+      ]
+    },
+    {
+      "name": "Algarrobina",
+      "price": "S/. 22.00",
+      "description": "Pisco, leche evaporada, algarrobina, canela en polvo"
+    },
+    {
+      "name": "Pisco Sunrise",
+      "price": "S/. 20.00",
+      "description": "Pisco, jugo de naranja, jarabe de granadina, gajos de naranja"
+    },
+    {
+      "name": "Pisco Punch",
+      "price": "S/. 25.00",
+      "description": "Pisco, jugo de piña, zumo de limón, jarabe de goma"
+    },
+    {
+      "name": "Capitán Ardiente",
+      "price": "S/. 25.00",
+      "description": "Pisco, Vermouth Rosso, sinsone, aperol, bitter de naranja"
+    },
+    {
+      "name": "Daiquiri",
+      "price": "S/. 25.00",
+      "flavors": ["Fresa", "Maracuyá", "Limón"]
+    },
+    {
+      "name": "Piña Colada",
+      "price": "S/. 25.00",
+      "description": "Pisco, zumo de piña, crema de coco"
+    },
+    {
+      "name": "Perú Libre",
+      "price": "S/. 20.00",
+      "description": "Pisco, coca cola"
+    },
+    {
+      "name": "White Russian",
+      "price": "S/. 25.00",
+      "description": "Pisco, licor de café, crema de leche"
+    },
+    {
+      "name": "Bloody Mary",
+      "price": "S/. 22.00",
+      "description": "Pisco, zumo de tomate, jugo de limón, tabasco, pimienta negra, rama de apio"
+    }
+  ],
+  "festival_mule": {
+    "price": "S/. 25.00",
+    "drinks": [
+      {
+        "name": "Malibú Sunset",
+        "description": "Macerado carambola, maracuyá, chirimoya, Malibú, jugo de piña, jarabe de granadina"
+      },
+      {
+        "name": "Malibú Blue Hawaiian",
+        "description": "Macerado piña coco, Malibú, curaçao blue, jugo de piña"
+      },
+      {
+        "name": "Malibú Bay Breeze",
+        "description": "Macerados frutos rojos, Malibú, zumo de arándanos, zumo de piña"
+      },
+      {
+        "name": "Malibú y Zumo de Naranja",
+        "description": "Macerado maracuyá / naranja / ciruela, Malibú, zumo de naranja"
+      }
+    ]
+  },
+  "pisco_mule": {
+    "price": "S/. 40.00",
+    "varieties": [
+      "México",
+      "Brasil",
+      "Colombia",
+      "Tennessee"
+    ]
+  },
+  "cocktails_author_pisco_based": [
+    {
+      "name": "M17",
+      "price": "S/. 24.00",
+      "description": "Macerado de frutos rojos y anís / canela, jugo de arándano, jugo de maracuyá, 2 gotas de bitter cítrico"
+    },
+    {
+      "name": "Cazador",
+      "price": "S/. 25.00",
+      "description": "Macerado de maracuyá / naranja / canela, mandarina triturada, ron, crema de coco, gaseosa de toronja"
+    },
+    {
+      "name": "Mango Loco",
+      "price": "S/. 25.00",
+      "description": "Macerado piña / coco / naranja, jugo de maracumango, crema de coco, Monster mango"
+    },
+    {
+      "name": "Mojito Aperol",
+      "price": "S/. 25.00",
+      "description": "Pisco, aperol, jugos base de un blend cítrico, hierba buena, agua mineral"
+    },
+    {
+      "name": "Tondero",
+      "price": "S/. 25.00",
+      "flavors": [
+        "Fresa",
+        "Maracuyá",
+        "Maracumango"
+      ]
+    },
+    {
+      "name": "Tiki Tropic",
+      "price": "S/. 25.00",
+      "description": "Pisco, ron, macerado, crema de coco, dash de limón, puré y licor de banana"
+    },
+    {
+      "name": "D-Javu",
+      "price": "S/. 30.00",
+      "description": "Pisco, ron, macerado, blend de zumos, licor de durazno, aperol"
+    },
+    {
+      "name": "AK-47",
+      "price": "S/. 25.00",
+      "description": "Pisco, macerado, aperol, crema de coco, blend de zumos, limón, mandarina, jarabe de goma"
+    }
+  ],
+  "drinks": {
+    "price": "S/. 5.00",
+    "options": [
+      "Agua mineral sin gas / con gas",
+      "Coca Cola diet / original",
+      "Inca Kola diet / original",
+      "Fanta clásica / roja",
+      "Red Bull (consultar disponibilidad)"
+    ]
+  },
+  "happy_hour": {
+    "pisco_sour": "2x S/. 45.00",
+    "chilcanos": "2x S/. 38.00",
+    "pisco_mule": "2x S/. 40.00",
+    "mojitos": "2x S/. 38.00",
+    "cazador": "2x S/. 45.00",
+    "tiki_tropic": "2x S/. 45.00",
+    "tondero": "2x S/. 45.00",
+    "golden_sunrise": "2x S/. 45.00",
+    "citrus_glow": "2x S/. 45.00",
+    "red_sunset": "2x S/. 45.00",
+    "micheladas": "2x S/. 38.00",
+    "limonada_frappé": "2x S/. 44.00",
+    "caipirinhas": "2x S/. 40.00",
+    "festival_malibu": "2x S/. 40.00",
+    "piña_colada": "2x S/. 40.00",
+    "mango_loco": "2x S/. 45.00",
+    "gin_tonic": "2x S/. 50.00",
+    "negroni_prohibido": "2x S/. 45.00",
+    "pisco_punch": "2x S/. 40.00",
+    "d_javu": "2x S/. 50.00",
+    "ak_47": "2x S/. 40.00",
+    "m_17": "2x S/. 40.00",
+    "la_sangrona": "2x S/. 40.00"
+  }
+}
